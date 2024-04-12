@@ -744,7 +744,7 @@ humanfriendly==10.0
     #   coloredlogs
 hyperopt==0.2.7
     # via -r /ray/ci/../python/requirements/ml/tune-requirements.txt
-idna==3.4
+idna==3.7
     # via
     #   anyio
     #   httpx
