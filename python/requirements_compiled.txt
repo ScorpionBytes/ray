@@ -1617,7 +1617,7 @@ pycodestyle==2.7.0
     # via flake8
 pycparser==2.21
     # via cffi
-pydantic==1.10.12
+pydantic==1.10.13
     # via
     #   -r /ray/ci/../doc/requirements-doc.txt
     #   -r /ray/ci/../python/requirements.txt
